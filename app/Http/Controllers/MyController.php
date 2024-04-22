@@ -24,4 +24,8 @@ class MyController extends Controller
     public function doSomethingElse($prop){
         echo 'do something else';
     }
+
+    public function doSomethingElseAgain($prop){
+        echo 'do something else';
+    }
 }
